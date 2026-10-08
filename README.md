@@ -19,7 +19,11 @@ This repository contains the aim, procedure, output and result for each experime
 | 11 | Create video streaming service using S3 and CloudFront |
 
 ## Note
+
 Each experiment folder has its own `README.md` with the Aim, Procedure, Output and Result.
 
-**Name:** Harsha Dattatreya Hegde
-**Register No.:** 4SF23CS070
+---
+
+### **Name: Harsha Dattatreya Hegde**
+
+### **Register No.: 4SF23CS070**
